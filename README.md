@@ -1,3 +1,2 @@
 # The simple algorithms and their explanation (try to do my best)
-Hello👋! My name is Diar im from Kazakhstan and i already have learned much for backend (FastAPI, Postgres SQL, and also HTML+CSS), also preparing for CS(ML engineering) development in future💻. My main work is on the EdTech-AI project. My first project is a big mix of backend main works and AI(YOLOv8) integration that scans forest for burning🔥.
-Also im trying to get into the best IT competition in Central Asia named "Astana Hub" that is in Kazakhstan. I am a big fan of Computer Science and tech-engineering, so my journey of code started at 14 years old...
+python algorythms form Codewars.
